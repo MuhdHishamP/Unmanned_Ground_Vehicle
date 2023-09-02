@@ -1,1 +1,3 @@
-gun
+knife
+human
+
